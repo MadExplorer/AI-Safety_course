@@ -1,1 +1,1 @@
-# AI-Safety_practice
+# AI-Safety_course
